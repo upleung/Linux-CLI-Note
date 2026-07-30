@@ -19,12 +19,12 @@
 - 🐧 [1. Debian / Armbian 系统核心调优](#1-debian--armbian-系统核心调优)
 - 🐳 [2. Docker & Compose 高效运维](#2-docker--compose-高效运维)
 - 🚀 [3. 硬件性能调试与系统监控](#3-硬件性能调试与系统监控)
-- 🌐 [4. 网络配置、旁路由与网关优化](#4-网络配置旁路由与网关优化)[cite: 2]
+- 🌐 [4. 网络配置、旁路由与网关优化](#4-网络配置旁路由与网关优化)
 - 🛠️ [5. Shell 自动化脚本与运维工具](#5-shell-自动化脚本与运维工具)
-- 📺 [6. 影音流媒体与 IPTV 调试](#6-影音流媒体与-iptv-调试)[cite: 1]
-- 🧰 [7. WSL2 / Cloudflare / 云原生部署](#7-wsl2--cloudflare--云原生部署)[cite: 1]
-- 📦 [8. Git / GitHub / 版本管理](#8-git--github--版本管理)[cite: 1]
-- 📘 [9. 常用 Linux CLI 速查表](#9-常用-linux-cli-速查表)[cite: 1]
+- 📺 [6. 影音流媒体与 IPTV 调试](#6-影音流媒体与-iptv-调试)
+- 🧰 [7. WSL2 / Cloudflare / 云原生部署](#7-wsl2--cloudflare--云原生部署)
+- 📦 [8. Git / GitHub / 版本管理](#8-git--github--版本管理)
+- 📘 [9. 常用 Linux CLI 速查表](#9-常用-linux-cli-速查表)
 
 ---
 
