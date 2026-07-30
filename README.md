@@ -1,8 +1,21 @@
 # 🐧 Linux-CLI-Note
 
+![Linux](https://img.shields.io/badge/Linux-CLI-000000.svg?logo=linux)
+![Platform](https://img.shields.io/badge/Platform-Debian%20%7C%20Armbian-orange.svg)
+![Docker](https://img.shields.io/badge/Docker-Compose-1D63ED.svg?logo=docker)
+![Shell](https://img.shields.io/badge/Shell-Bash-4EAA25.svg?logo=gnu-bash)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-Pages%20%7C%20Workers-F38020.svg?logo=cloudflare)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
+
+<br>
+
 **Debian / Armbian / Docker / Linux 高频命令行笔记库**
 
+<br>
+
 本项目用于记录在 Linux (Debian/Armbian) 环境下部署服务、容器管理、网络配置以及性能优化的常用命令行。作为个人的高频 CLI 速记本，本仓库特别针对 Homelab 玩家、旁路由网关配置、代理环境调试以及 Docker 容器化部署进行了梳理与总结。
+
+<br>
 
 **适用场景与环境：**
 - Armbian / Debian / Ubuntu / WSL2
