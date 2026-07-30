@@ -51,6 +51,8 @@ sudo apt update && sudo apt upgrade -y
 # 安装常用基础工具
 sudo apt install -y vim htop curl wget git net-tools lsof unzip
 
+```
+
 ### 🧹 清理系统与空间释放
 
 
@@ -478,6 +480,3 @@ ping -c 4 8.8.8.8           # 发送 4 个 ICMP 请求包测试网络连通性
 
 ```
 
-```
-
-```
