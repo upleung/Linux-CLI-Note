@@ -26,9 +26,9 @@ https://github.com/progfay/shields-with-icon
 
 
 
-![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
-![Platform](https://img.shields.io/badge/Platform-Debian%20%7C%20Armbian-orange.svg)
 ![Linux](https://img.shields.io/badge/Linux-CLI-000000.svg?logo=linux)
-![Shell](https://img.shields.io/badge/Shell-Bash-4EAA25.svg?logo=gnu-bash)
+![Platform](https://img.shields.io/badge/Platform-Debian%20%7C%20Armbian-orange.svg)
 ![Docker](https://img.shields.io/badge/Docker-Compose-1D63ED.svg?logo=docker)
+![Shell](https://img.shields.io/badge/Shell-Bash-4EAA25.svg?logo=gnu-bash)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-Pages%20%7C%20Workers-F38020.svg?logo=cloudflare)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
