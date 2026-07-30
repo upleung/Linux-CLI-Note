@@ -1,5 +1,5 @@
 
-[https://img.shields.io/badge](https://github.com/badges/shields)
+https://github.com/badges/shields
 
 https://github.com/progfay/shields-with-icon
 
